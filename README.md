@@ -1,5 +1,7 @@
 # spring-guides-Messaging-with-Redis
 
+https://spring.io/guides/gs/messaging-redis/
+
 ## (1) Redis Server 실행
       docker run redis
 
